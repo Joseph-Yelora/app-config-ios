@@ -3,7 +3,7 @@
   "defaults": {
     "banner": true,
     "interstitial": true,
-    "app_open": true,
+    "app_open": false,
     "use_server_bots": true
   }
 }
