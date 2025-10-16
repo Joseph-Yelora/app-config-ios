@@ -1,9 +1,9 @@
 {
   "version": "1.1.0",
   "defaults": {
-    "banner": false,
+    "banner": true,
     "interstitial": false,
-    "app_open": true,
+    "app_open": false,
     "use_server_bots": true
   }
 }
