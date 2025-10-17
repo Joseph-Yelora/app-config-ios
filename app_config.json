@@ -2,8 +2,8 @@
   "version": "1.1.0",
   "defaults": {
     "banner": true,
-    "interstitial": true,
-    "app_open": true,
+    "interstitial": false,
+    "app_open": false,
     "use_server_bots": true
   }
 }
